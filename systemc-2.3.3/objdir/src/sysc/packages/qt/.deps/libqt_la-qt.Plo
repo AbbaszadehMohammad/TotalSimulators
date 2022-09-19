@@ -1,0 +1,13 @@
+libqt_la-qt.lo libqt_la-qt.o: ../../../../../src/sysc/packages/qt/qt.c \
+  ../../../../../src/sysc/packages/qt/copyright.h \
+  ../../../../../src/sysc/packages/qt/qt.h \
+  ../../../../../src/sysc/packages/qt/qtmd.h \
+  ../../../../../src/sysc/packages/qt/md/i386.h
+
+../../../../../src/sysc/packages/qt/copyright.h:
+
+../../../../../src/sysc/packages/qt/qt.h:
+
+../../../../../src/sysc/packages/qt/qtmd.h:
+
+../../../../../src/sysc/packages/qt/md/i386.h:
